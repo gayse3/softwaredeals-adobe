@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'Facebook',
-      link: 'https://www.facebook.com/softwaredeals.pro',
+      link: '',
     },
   ],
 
